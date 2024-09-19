@@ -1,0 +1,31 @@
+.wine-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .wine-item {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .wine-item h3 {
+    margin-bottom: 5px;
+    font-size: 1.4em;
+    color: #333;
+  }
+  
+  .wine-item p {
+    margin: 5px 0;
+  }
+  
+  .wine-type {
+    color: #d9534f; /* Red color for red wine */
+  }
+  
+  .wine-item strong {
+    font-weight: bold;
+  }
+  
