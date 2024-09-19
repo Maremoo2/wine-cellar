@@ -2,7 +2,7 @@
 
 **Wine Cellar Tracker** is a React-based web application that allows users to manage and track their wine collection. Wines can be categorized, added, edited, and stored locally in the browser using **Local Storage**, ensuring persistence even after refreshing the page. The app supports detailed wine information, collapsible views for easy navigation, and categorized wines based on type (White, Red, or Bubbles).
 
-##To Clear the Local Storage (optional):
+## To Clear the Local Storage (optional):
 If you ever need to clear the local storage data (e.g., for testing), you can run the following command in the browser's developer console:
 localStorage.removeItem('wines');
 
